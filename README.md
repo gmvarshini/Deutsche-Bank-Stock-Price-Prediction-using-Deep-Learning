@@ -1,4 +1,4 @@
-# Stock Price Analysis and Prediction of Deutsche Bank using LSTM
+# Stock Price Analysis and Prediction of Deutsche Bank using Deep Learning
 
 This project aims to analyze the stock prices of Deutsche Bank for EQUITY markets in New York, Germany, and France. The project involves collecting historical stock prices data from these markets, analyzing the trends and patterns using various statistical and technical indicators, and developing a predictive model using LSTM to predict the close price of EQUITY-Germany.
 
